@@ -40,13 +40,36 @@ Foi criada uma nova versão da planilha com:
 
 ### ✅ Nova Versão da Planilha
 
+#### 🧾 planilha_nova1.png  
+Tela para inserir a mensagem personalizada que será enviada pelo WhatsApp.  
+Também inclui:
+- Um controle que verifica se todas as mensagens foram enviadas;
+- Um aviso automático caso todas já tenham sido enviadas;
+- Uma "colinha" com instruções rápidas do processo, caso o usuário esqueça como usar.
+
 ![Nova Planilha - Visão Geral](imagens/planilha_nova1.png)
+
+---
+
+#### 🧾 planilha_nova2.png  
+Nova planilha funcional com dados dos pacientes.  
+Com apenas **2 cliques**, a mensagem é enviada automaticamente:
+- Abre o WhatsApp Web;
+- Insere o número do contato;
+- Escreve a mensagem personalizada automaticamente.  
+**O usuário só precisa clicar em "Enter" para concluir o envio.**
 
 ![Nova Planilha - Dados Processados](imagens/planilha_nova2.png)
 
+---
+
+#### 🧾 planilha_nova3.png  
+Visual de acompanhamento dos envios:  
+- Contatos que **já receberam** a mensagem aparecem em **verde**;  
+- Contatos que **fazem aniversário no dia**, mas ainda **não receberam**, aparecem em **vermelho**.
+
 ![Nova Planilha - Lista de Aniversariantes](imagens/planilha_nova3.png)
 
----
 
 ## 🔐 Privacidade
 
