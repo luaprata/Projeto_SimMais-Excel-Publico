@@ -34,17 +34,17 @@ Foi criada uma nova versão da planilha com:
 
 ### 🧾 Planilha Antiga
 
-![Planilha Antiga](prints/planilha_antiga.png)
+![Planilha Antiga](imagens/planilha_antiga.png)
 
 ---
 
 ### ✅ Nova Versão da Planilha
 
-![Nova Planilha - Visão Geral](prints/planilha_nova1.png)
+![Nova Planilha - Visão Geral](imagens/planilha_nova1.png)
 
-![Nova Planilha - Dados Processados](prints/planilha_nova2.png)
+![Nova Planilha - Dados Processados](imagens/planilha_nova2.png)
 
-![Nova Planilha - Lista de Aniversariantes](prints/planilha_nova3.png)
+![Nova Planilha - Lista de Aniversariantes](imagens/planilha_nova3.png)
 
 ---
 
